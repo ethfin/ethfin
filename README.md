@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @ethfin
-- 👀 I’m interested in ... ?
-- 🌱 I’m currently learning ... ?
-- 💞️ I’m looking to collaborate on ... ?
-- 📫 How to reach me ... ?
-
 ## 👋 Hi there!
 
 I'm @ethfin, currently studying while also trying to learn some new things to work with.
