@@ -11,7 +11,7 @@ I'm @ethfin, currently studying while also trying to learn some new things to wo
 
 ### 🚀 Some of My Projects
 
-- testProj - A working in progress for finals.
+- ChronoPulse - A working in progress for finals.
 
 ### 📚 I'm Currently Learning
 
