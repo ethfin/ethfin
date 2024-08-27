@@ -16,7 +16,7 @@ I'm @ethfin, currently studying while also trying to learn some new things to wo
 ### 📚 I'm Currently Learning
 
 - Code optimization
-- Best practices for secure database connections
+- AI building
 
 ### 🧩 Fun Fact
 
