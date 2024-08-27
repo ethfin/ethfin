@@ -7,7 +7,7 @@ I'm @ethfin, currently studying while also trying to learn some new things to wo
 - **Languages:** Python 🐍, VB.NET 🖥️, C++ 🖥️, Java ☕, C# 🖥️.
 - **Databases:** MySQL 🗃️
 - **Tools:** Visual Studio Code, Git Bash, MySQL Workbench, Visual Studio 2022
-- **Interests:** AI 🤖, Image Recognition 🔍, Steam API 🎮
+- **Interests:** AI 🤖, Image Recognition 🔍, Application Development, Website Development
 
 ### 🚀 Some of My Projects
 
