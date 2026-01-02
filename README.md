@@ -9,9 +9,9 @@ I'm @ethfin, currently studying while also trying to learn some new things to wo
 - **Tools:** Visual Studio Code, Git Bash, MySQL Workbench, Visual Studio 2022
 - **Interests:** AI 🤖, Image Recognition 🔍, Application Development, Website Development
 
-### 🚀 Some of My Projects
+### 🚀 Projects
 
-- ChronoPulse - A working in progress for finals.
+- ChronoPulse - Completed!
 
 ### 📚 I'm Currently Learning
 
