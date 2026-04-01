@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm @ethfin, currently studying while also trying to learn some new things to work with.
+I'm @ethfin, an Application Developer Trainee, currently studying while also trying to learn some new things to work with.
 
 ### 🛠️ What I Work With
 
@@ -21,7 +21,6 @@ I'm @ethfin, currently studying while also trying to learn some new things to wo
 ### 🧩 Fun Fact
 
 Did you know that the first word typed on a computer was "LO"? They intend to send the word "LOGIN" but failed after sending the first two letters.
-
 
 
 <!---
