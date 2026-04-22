@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm @ethfin, an Application Developer Trainee, currently studying while also trying to learn some new things to work with.
+I'm @ethfin, currently studying while also trying to learn some new things to work with.
 
 ### 🛠️ What I Work With
 
